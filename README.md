@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://dcbadge.vercel.app/api/shield/163313073606623233)
+
 <!--
 **backstromjoel/backstromjoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
