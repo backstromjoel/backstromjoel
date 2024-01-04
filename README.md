@@ -1,6 +1,6 @@
 # Hello, I'm Joel 👋
 
-I'm a product focused fullstack developer passionate about devlivering real-world value. I'm always open to collaborating on innovative ideas. Find out more about me & feel free to connect with me here:
+I'm a product focused fullstack developer passionate about delivering real-world value. I'm always open to collaborating on innovative ideas. Find out more about me & feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joelbackstrom3/)](https://www.linkedin.com/in/joelbackstrom3/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/backstromjoel/)](https://github.com/backstromjoel/)
