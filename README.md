@@ -1,6 +1,27 @@
-### Hi there 👋
+# Hello, I'm Joel 👋
+
+I'm a product focused fullstack developer passionate about devlivering real-world value. I'm always open to collaborating on innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joelbackstrom3/)](https://www.linkedin.com/in/joelbackstrom3/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/backstromjoel/)](https://github.com/backstromjoel/)
+
+## 🔧 Technologies
+
+Talk to me about
+
+- Front-end development using **Svelte**
+- Backend development using **.NET, SvelteKit and Python**
+- Creating scalable cloud applications using **Vercel, AWS and Azure**
+- Parametric CAD scripting using **CadQuery**
 
 <!--
+
+## 🧐 About
+
+- 🏄‍ Community guy who loves being involved in communities and sharing knowledge.
+- 🌱 I’m currently learning [what you are learning]
+- 💬 Ask me about: tech, memes, anime, gaming.
+
 
 ![](https://dcbadge.vercel.app/api/shield/163313073606623233)
 
