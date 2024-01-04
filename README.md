@@ -9,8 +9,8 @@ I'm a product focused fullstack developer passionate about devlivering real-worl
 
 Talk to me about
 
-- Front-end development using **Svelte**
-- Backend development using **.NET, SvelteKit and Python**
+- Front-end development using **SvelteKit**
+- Backend development using **.NET, TypeScript and Python**
 - Creating scalable cloud applications using **Vercel, AWS and Azure**
 - Parametric CAD scripting using **CadQuery**
 
