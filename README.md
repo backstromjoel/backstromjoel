@@ -13,7 +13,7 @@ Talk to me about
 - Backend development using **.NET, TypeScript and Python**
 - Creating scalable cloud applications using **Vercel, AWS and Azure**
 - Parametric CAD scripting using **CadQuery**
-- Business ideas and **entrepreneurship**!
+- Business ideas and **Entrepreneurship**
 
 <!--
 
