@@ -11,7 +11,7 @@ Talk to me about
 
 - Front-end development using **SvelteKit**
 - Backend development using **.NET, TypeScript and Python**
-- Creating scalable cloud applications using **Vercel, AWS and Azure**
+- Creating scalable cloud applications using **Vercel, Supabase, AWS and Azure**
 - Parametric CAD scripting using **CadQuery**
 - Business ideas and **Entrepreneurship**
 
