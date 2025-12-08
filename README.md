@@ -10,7 +10,7 @@ I'm a product focused fullstack developer passionate about delivering real-world
 Talk to me about
 
 - Front-end development using **SvelteKit**
-- Backend development using **.NET, TypeScript and Python**
+- Backend development using **.NET, TypeScript and Go**
 - Creating scalable applications using **Vercel, Convex, AWS and Azure**
 - Business ideas and **Entrepreneurship**
 
