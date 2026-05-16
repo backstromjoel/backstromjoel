@@ -11,7 +11,7 @@ Talk to me about
 
 - Front-end development using **SvelteKit**
 - Backend development using **.NET, TypeScript and Go**
-- Creating scalable applications using **Vercel, Convex, AWS and Azure**
+- Creating scalable applications using **Convex**
 - Business ideas and **Entrepreneurship**
 
 <!--
