@@ -1,18 +1,9 @@
 # Hello, I'm Joel 👋
 
-I'm a product focused fullstack developer passionate about delivering real-world value. I'm always open to collaborating on innovative ideas. Find out more about me & feel free to connect with me here:
+Currently building the best CPQ software on the market for contract manufacturing, InstaQuote, at [Formed Ideas](https://formedideas.com/).
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joelbackstrom3/)](https://www.linkedin.com/in/joelbackstrom3/)
 <!-- [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/backstromjoel/)](https://github.com/backstromjoel/) -->
-
-## 🔧 Technologies
-
-Talk to me about
-
-- Front-end development using **SvelteKit**
-- Backend development using **.NET, TypeScript and Go**
-- Creating scalable applications using **Convex**
-- Business ideas and **Entrepreneurship**
 
 <!--
 
